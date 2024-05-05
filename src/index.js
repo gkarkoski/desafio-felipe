@@ -8,8 +8,8 @@ let HeroLevel;
 //Xp = parseInt(Xp);
 
 
-NameHero = "Chico";
-Xp = 4236;
+NameHero = "Tonho";
+Xp = 8542;
 
 
 if (Xp <= 1000) {
@@ -37,4 +37,4 @@ else {
     HeroLevel = "Radiante";
 }
 
-console.log(`O Herói de nome ${NameHero} está no nível de ${HeroLevel}`);
+console.log(`O Herói de nome ${NameHero} está no nível ${HeroLevel}`);
